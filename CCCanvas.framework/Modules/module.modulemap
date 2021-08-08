@@ -1,0 +1,6 @@
+framework module CCCanvas {
+  umbrella header "CCCanvas.h"
+
+  export *
+  module * { export * }
+}
