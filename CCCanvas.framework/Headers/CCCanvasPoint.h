@@ -8,16 +8,20 @@
 
 #import <Foundation/Foundation.h>
 #import <CoreGraphics/CoreGraphics.h>
+#import <CCCanvas/CCCanvasTypes.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
 @interface CCCanvasPoint : NSObject
 
 // the value [-1.0 - 1.0]
-@property (nonatomic) CGPoint pointA;
-@property (nonatomic) CGPoint pointB;
-@property (nonatomic) CGPoint pointC;
-@property (nonatomic) CGPoint pointD;
+@property (nonatomic, readonly) CGPoint pointA;
+@property (nonatomic, readonly) CGPoint pointB;
+@property (nonatomic, readonly) CGPoint pointC;
+@property (nonatomic, readonly) CGPoint pointD;
+
+// canvas type [defalt type is CCCanvasTypeColor]
+@property (nonatomic, readonly) CCCanvasType canvasType;
 
 -(instancetype)initPointWith1Point:(CGPoint) pointA ;
 -(instancetype)initLinetWith2Point:(CGPoint) pointA pointB: (CGPoint) pointB ;
