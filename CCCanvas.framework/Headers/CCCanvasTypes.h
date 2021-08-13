@@ -11,11 +11,16 @@
 NS_ASSUME_NONNULL_BEGIN
 
 typedef NS_ENUM(NSInteger, CCCanvasType) {
-    CCCanvasTypeColor = 0,
+    CCCanvasTypeStart = -1,
+    
+    CCCanvasTypeColor,
     CCCanvasTypePoint,
     CCCanvasTypeLine,
     CCCanvasTypeTriangle,
     CCCanvasTypePlane,
+    CCCanvasTypeTexture,
+    
+    CCCanvasTypeEnd,
 };
 
 @interface CCCanvasTypes : NSObject
