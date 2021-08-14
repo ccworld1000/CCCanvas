@@ -1,8 +1,8 @@
 //
-//  CCCanvasTypes.h
+//  CCCanvasFunction.h
 //  CCCanvas
 //
-//  Created by CC on 2021/8/11.
+//  Created by CC on 2021/8/10.
 //  Copyright © 2021 CC (deng you hua | cworld1000@gmail.com). All rights reserved.
 //  https://github.com/ccworld1000/CCCanvas
 
@@ -23,7 +23,16 @@ typedef NS_ENUM(NSInteger, CCCanvasType) {
     CCCanvasTypeEnd,
 };
 
-@interface CCCanvasTypes : NSObject
+@interface CCCanvasFunction : NSObject
+
+@property (nonatomic, copy, readonly) NSString *source;
+@property (nonatomic, copy, readonly) NSString *vertex;
+@property (nonatomic, copy, readonly) NSString *fragment;
+
+- (instancetype)init NS_UNAVAILABLE;
++ (instancetype)new NS_UNAVAILABLE;
+
++ (CCCanvasFunction *)functionWithType: (CCCanvasType) type;
 
 @end
 

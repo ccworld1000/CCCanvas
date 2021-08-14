@@ -8,7 +8,8 @@
 
 #import <Foundation/Foundation.h>
 #import <CoreGraphics/CoreGraphics.h>
-#import <CCCanvas/CCCanvasTypes.h>
+#import <CCCanvas/CCCanvasFunction.h>
+#import <UIKit/UIKit.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -20,13 +21,21 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, readonly) CGPoint pointC;
 @property (nonatomic, readonly) CGPoint pointD;
 
+@property (nonatomic, strong, readonly) UIImage *image;
+
 // canvas type [defalt type is CCCanvasTypeColor]
 @property (nonatomic, readonly) CCCanvasType canvasType;
+
+@property (nonatomic, readonly) NSUInteger pointBytesSize;
+
 
 -(instancetype)initPointWith1Point:(CGPoint) pointA ;
 -(instancetype)initLinetWith2Point:(CGPoint) pointA pointB: (CGPoint) pointB ;
 -(instancetype)initTriangleWith3Point:(CGPoint) pointA pointB: (CGPoint) pointB pointC: (CGPoint) pointC;
 -(instancetype)initPlaneWith4Point:(CGPoint) pointA  pointB: (CGPoint) pointB pointC: (CGPoint) pointC pointD: (CGPoint) pointD;
+-(instancetype)initTextureWith4PointAndImage:(CGPoint) pointA  pointB: (CGPoint) pointB pointC: (CGPoint) pointC pointD: (CGPoint) pointD image: (UIImage *) image;
+
+- (float *) pointBytes;
 
 @end
 

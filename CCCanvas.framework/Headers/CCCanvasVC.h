@@ -7,7 +7,6 @@
 
 #import <UIKit/UIKit.h>
 #import <CCCanvas/CCCanvasPoint.h>
-#import <CCCanvas/CCCanvasTypes.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
@@ -21,10 +20,6 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic) double green;
 @property (nonatomic) double blue;
 @property (nonatomic) double alpha;
-
-// canvas type [defalt type is CCCanvasTypeColor]
-@property (nonatomic, readonly) CCCanvasType canvasType;
-
 
 // override it for CCCanvasTypePoint | the value [-1.0 - 1.0]
 - (CCCanvasPoint *) getCanvasPoint;

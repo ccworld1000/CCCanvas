@@ -6,19 +6,19 @@
 	<dict>
 		<key>Headers/CCCanvas.h</key>
 		<data>
-		rg9I0TNRbw636FnnC/rkWFfekec=
+		Ss5kBTctKO47jjxa3q1OxmaRdLU=
+		</data>
+		<key>Headers/CCCanvasFunction.h</key>
+		<data>
+		vvzIza6o8+hBks2bE9YbInkxWVI=
 		</data>
 		<key>Headers/CCCanvasPoint.h</key>
 		<data>
-		7lvFDyn2/7yVInkgsuBVnmrL28M=
-		</data>
-		<key>Headers/CCCanvasTypes.h</key>
-		<data>
-		ni8FOt49neYoFyBPs46FIylOiqM=
+		240C7PvpqQJcHMb7uSwFTy03j8w=
 		</data>
 		<key>Headers/CCCanvasVC.h</key>
 		<data>
-		oBKnAbMOMv6SHn5WUmXUvh6jLQY=
+		RePpEkn7XWi0+Li8rmsbM3q8GEM=
 		</data>
 		<key>Info.plist</key>
 		<data>
@@ -35,28 +35,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3eL9lxZrG+o9QlXt6Waxo14FhFQtXme5nrS0PuYLX40=
+			+Gj/Hw5wjrmQI90q9ipbqB5WY3Ya4PKnEtczQSn7WZk=
+			</data>
+		</dict>
+		<key>Headers/CCCanvasFunction.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			IeqUhq+l4YQEXKNnkzZeOXcPjTXMl29ILhpLcJbSnzI=
 			</data>
 		</dict>
 		<key>Headers/CCCanvasPoint.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GMtWITLrovDfM9Hn4MjsqCt9KUTqFZETpiB/EdB9cGc=
-			</data>
-		</dict>
-		<key>Headers/CCCanvasTypes.h</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			LUMFz6W4701Ebx8+Sab/VsGH3MfPsUNZ/8UtBBC0Z5k=
+			E6roBHKSLRy09ja1RNTpHolU091XyaiGd3vnSymNIhc=
 			</data>
 		</dict>
 		<key>Headers/CCCanvasVC.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mCH6eLlKsddwJV3AMhaV50A6w/yCodUu8vQcxSNKVJU=
+			iZ5IGM8RTNQohBxISnU3aPM3nOIF5iklo1puBNXvk2g=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
