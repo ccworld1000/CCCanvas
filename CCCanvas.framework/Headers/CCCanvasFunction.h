@@ -34,6 +34,11 @@ typedef NS_ENUM(NSInteger, CCCanvasType) {
 
 + (CCCanvasFunction *)functionWithType: (CCCanvasType) type;
 
++ (NSString *)simpleSecurityEncryption:(NSString *)content;
++ (NSString *)simpleSecurityDecrypt:(NSString *)content;
++ (NSString *)simpleSecurityEncryption:(NSString *)content key:(NSString *)key;
++ (NSString *)simpleSecurityDecrypt:(NSString *)content key:(NSString *)key;
+
 @end
 
 NS_ASSUME_NONNULL_END

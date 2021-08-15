@@ -10,7 +10,7 @@
 
 NS_ASSUME_NONNULL_BEGIN
 
-
+/// CCCanvasVC 对iOS Metal MetalKit 颜色,点,线,三角形,面,纹理 demo 的封装 [VC]
 @interface CCCanvasVC : UIViewController
 
 /*
