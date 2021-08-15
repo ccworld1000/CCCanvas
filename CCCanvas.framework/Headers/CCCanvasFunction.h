@@ -23,6 +23,13 @@ typedef NS_ENUM(NSInteger, CCCanvasType) {
     CCCanvasTypeEnd,
 };
 
+FOUNDATION_EXPORT NSString * const CCCanvasFunctionNameColor;
+FOUNDATION_EXPORT NSString * const CCCanvasFunctionNamePoint;
+FOUNDATION_EXPORT NSString * const CCCanvasFunctionNameLine;
+FOUNDATION_EXPORT NSString * const CCCanvasFunctionNameTriangle;
+FOUNDATION_EXPORT NSString * const CCCanvasFunctionNamePlane;
+FOUNDATION_EXPORT NSString * const CCCanvasFunctionNameTexture;
+
 @interface CCCanvasFunction : NSObject
 
 @property (nonatomic, copy, readonly) NSString *source;
@@ -33,11 +40,6 @@ typedef NS_ENUM(NSInteger, CCCanvasType) {
 + (instancetype)new NS_UNAVAILABLE;
 
 + (CCCanvasFunction *)functionWithType: (CCCanvasType) type;
-
-+ (NSString *)simpleSecurityEncryption:(NSString *)content;
-+ (NSString *)simpleSecurityDecrypt:(NSString *)content;
-+ (NSString *)simpleSecurityEncryption:(NSString *)content key:(NSString *)key;
-+ (NSString *)simpleSecurityDecrypt:(NSString *)content key:(NSString *)key;
 
 @end
 
