@@ -20,6 +20,7 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, readonly) CGPoint pointB;
 @property (nonatomic, readonly) CGPoint pointC;
 @property (nonatomic, readonly) CGPoint pointD;
+@property (nonatomic, readonly) CGPoint pointE;
 
 @property (nonatomic, strong, nullable, readonly) UIImage *image;
 

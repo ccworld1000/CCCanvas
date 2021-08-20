@@ -13,12 +13,34 @@ NS_ASSUME_NONNULL_BEGIN
 typedef NS_ENUM(NSInteger, CCCanvasType) {
     CCCanvasTypeStart = -1,
     
-    CCCanvasTypeColor,
-    CCCanvasTypePoint,
-    CCCanvasTypeLine,
-    CCCanvasTypeTriangle,
-    CCCanvasTypePlane,
-    CCCanvasTypeTexture,
+    /*
+     * Color Type
+     */
+     CCCanvasTypeColor,
+    /*
+     * Point Type
+     */
+     CCCanvasTypePoint,
+    /*
+     * Line Type
+     */
+     CCCanvasTypeLine,
+    /*
+     * Triangle Type
+     */
+     CCCanvasTypeTriangle,
+    /*
+     * Plane Type
+     */
+     CCCanvasTypePlane,
+    /*
+     * Texture Type
+     */
+     CCCanvasTypeTexture,
+    /*
+     * Pyamid Type
+     */
+     CCCanvasTypePyamid,
     
     CCCanvasTypeEnd,
 };
@@ -29,6 +51,7 @@ FOUNDATION_EXPORT NSString * const CCCanvasFunctionNameLine;
 FOUNDATION_EXPORT NSString * const CCCanvasFunctionNameTriangle;
 FOUNDATION_EXPORT NSString * const CCCanvasFunctionNamePlane;
 FOUNDATION_EXPORT NSString * const CCCanvasFunctionNameTexture;
+FOUNDATION_EXPORT NSString * const CCCanvasFunctionNamePyamid;
 
 @interface CCCanvasFunction : NSObject
 
