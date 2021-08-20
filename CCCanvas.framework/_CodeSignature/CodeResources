@@ -6,11 +6,15 @@
 	<dict>
 		<key>Headers/CCCanvas.h</key>
 		<data>
-		Ss5kBTctKO47jjxa3q1OxmaRdLU=
+		Ty9PwMRFKN8YZgBxuzmJDQpIWG0=
 		</data>
 		<key>Headers/CCCanvasFunction.h</key>
 		<data>
 		NWAIBD6sKkU6am6KdqhQYZtS0j0=
+		</data>
+		<key>Headers/CCCanvasImage.h</key>
+		<data>
+		9/LEX2+GkH8tKhiVKL1MLRFfSts=
 		</data>
 		<key>Headers/CCCanvasPoint.h</key>
 		<data>
@@ -35,7 +39,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+Gj/Hw5wjrmQI90q9ipbqB5WY3Ya4PKnEtczQSn7WZk=
+			bee8JAAEn+rV2qL+a39UFCHoYS3JedDo36034fxbyc8=
 			</data>
 		</dict>
 		<key>Headers/CCCanvasFunction.h</key>
@@ -43,6 +47,13 @@
 			<key>hash2</key>
 			<data>
 			aTorS+M/eXqe2WWRS+rzPCXeQw8sDeu28bmpgXxQ81s=
+			</data>
+		</dict>
+		<key>Headers/CCCanvasImage.h</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			85n/lHFewftCc1pLdmXlb6kd2KmIUi4B0ekuRQY2MaY=
 			</data>
 		</dict>
 		<key>Headers/CCCanvasPoint.h</key>
