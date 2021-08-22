@@ -41,6 +41,18 @@ typedef NS_ENUM(NSInteger, CCCanvasType) {
      * Pyamid Type
      */
      CCCanvasTypePyamid,
+    /*
+     * Hexagon Type
+     */
+     CCCanvasTypeHexagon,
+    /*
+     * Heptagonal Type
+     */
+     CCCanvasTypeHeptagonal,
+    /*
+     * Cube Type
+     */
+     CCCanvasTypeCube,
     
     CCCanvasTypeEnd,
 };
@@ -52,6 +64,9 @@ FOUNDATION_EXPORT NSString * const CCCanvasFunctionNameTriangle;
 FOUNDATION_EXPORT NSString * const CCCanvasFunctionNamePlane;
 FOUNDATION_EXPORT NSString * const CCCanvasFunctionNameTexture;
 FOUNDATION_EXPORT NSString * const CCCanvasFunctionNamePyamid;
+FOUNDATION_EXPORT NSString * const CCCanvasFunctionNameHexagon;
+FOUNDATION_EXPORT NSString * const CCCanvasFunctionNameHeptagonal;
+FOUNDATION_EXPORT NSString * const CCCanvasFunctionNameCube;
 
 @interface CCCanvasFunction : NSObject
 

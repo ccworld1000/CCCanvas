@@ -20,7 +20,11 @@ NS_ASSUME_NONNULL_BEGIN
 @property (nonatomic, readonly) CGPoint pointB;
 @property (nonatomic, readonly) CGPoint pointC;
 @property (nonatomic, readonly) CGPoint pointD;
+
 @property (nonatomic, readonly) CGPoint pointE;
+@property (nonatomic, readonly) CGPoint pointF;
+@property (nonatomic, readonly) CGPoint pointG;
+@property (nonatomic, readonly) CGPoint pointH;
 
 @property (nonatomic, strong, nullable, readonly) UIImage *image;
 
@@ -36,6 +40,7 @@ NS_ASSUME_NONNULL_BEGIN
 -(instancetype)initPlaneWith4Point:(CGPoint) pointA  pointB: (CGPoint) pointB pointC: (CGPoint) pointC pointD: (CGPoint) pointD;
 -(instancetype)initTextureWith4PointOrImage:(CGPoint) pointA  pointB: (CGPoint) pointB pointC: (CGPoint) pointC pointD: (CGPoint) pointD image: (nullable UIImage *) image;
 -(instancetype)initPyamid;
+-(instancetype)initHexagon;
 
 - (float *) pointBytes;
 
