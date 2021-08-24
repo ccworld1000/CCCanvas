@@ -6,5 +6,4 @@
 //  https://github.com/ccworld1000/CCCanvas
 
 #import <CCCanvas/CCCanvasFunction.h>
-#import <CCCanvas/CCCanvasImage.h>
 #import <CCCanvas/CCCanvasVC.h>
