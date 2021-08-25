@@ -13,41 +13,41 @@
 
 1. [CCCanvas](https://github.com/ccworld1000/CCCanvas) iOS Metal MetalKit GPU 极简体验Demo之 - 颜色 [<<代码链接>>](https://github.com/ccworld1000/CCCanvas.Color)
 
-![CCCanvas.Color iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Color/main/Screenshot/iPhone.jpg?raw=true)
+![CCCanvas.Color iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Screenshot/main/CCCanvas.Color.jpg?raw=true)
 
 2. [CCCanvas](https://github.com/ccworld1000/CCCanvas) iOS Metal MetalKit GPU 极简体验Demo之 - 点 [<<代码链接>>](https://github.com/ccworld1000/CCCanvas.Point)
 
-![CCCanvas.Point iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Point/main/Screenshot/iPhone.jpg?raw=true)
+![CCCanvas.Point iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Screenshot/main/CCCanvas.Point.jpg?raw=true)
 
 3. [CCCanvas](https://github.com/ccworld1000/CCCanvas) iOS Metal MetalKit GPU 极简体验Demo之 - 线 [<<代码链接>>](https://github.com/ccworld1000/CCCanvas.Line)
 
-![CCCanvas.Line iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Line/main/Screenshot/iPhone.jpg?raw=true)
+![CCCanvas.Line iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Screenshot/main/CCCanvas.Line.jpg?raw=true)
 
 4. [CCCanvas](https://github.com/ccworld1000/CCCanvas) iOS Metal MetalKit GPU 极简体验Demo之 - 三角形 [<<代码链接>>](https://github.com/ccworld1000/CCCanvas.Triangle)
 
-![CCCanvas.Triangle iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Triangle/main/Screenshot/iPhone.jpg?raw=true)
+![CCCanvas.Triangle iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Screenshot/main/CCCanvas.Triangle.jpg?raw=true)
 
 5. [CCCanvas](https://github.com/ccworld1000/CCCanvas) iOS Metal MetalKit GPU 极简体验Demo之 - 面 [<<代码链接>>](https://github.com/ccworld1000/CCCanvas.Plane)
 
-![CCCanvas.Plane iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Plane/main/Screenshot/iPhone.jpg?raw=true)
+![CCCanvas.Plane iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Screenshot/main/CCCanvas.Plane.jpg?raw=true)
 
 6. [CCCanvas](https://github.com/ccworld1000/CCCanvas) iOS Metal MetalKit GPU 极简体验Demo之 - 纹理 [<<代码链接>>](https://github.com/ccworld1000/CCCanvas.Texture)
 
-![CCCanvas.Texture iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Texture/main/Screenshot/iPhone.jpg?raw=true)
+![CCCanvas.Texture iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Screenshot/main/CCCanvas.Texture.jpg?raw=true)
 
 7. [CCCanvas](https://github.com/ccworld1000/CCCanvas) iOS Metal MetalKit GPU 极简体验Demo之 - 金字塔 [<<代码链接>>](https://github.com/ccworld1000/CCCanvas.Pyamid)
 
-![CCCanvas.Pyamid iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Pyamid/main/Screenshot/iPhone.jpg?raw=true)
+![CCCanvas.Pyamid iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Screenshot/main/CCCanvas.Pyamid.jpg?raw=true)
 
 8. [CCCanvas](https://github.com/ccworld1000/CCCanvas) iOS Metal MetalKit GPU 极简体验Demo之 - 六边形 [<<代码链接>>](https://github.com/ccworld1000/CCCanvas.Hexagon)
 
-![CCCanvas.Hexagon iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Hexagon/main/Screenshot/iPhone.jpg?raw=true)
+![CCCanvas.Hexagon iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Screenshot/main/CCCanvas.Hexagon.jpg?raw=true)
 
 9. [CCCanvas](https://github.com/ccworld1000/CCCanvas) iOS Metal MetalKit GPU 极简体验Demo之 - 七边形 [<<代码链接>>](https://github.com/ccworld1000/CCCanvas.Heptagonal)
 
-![CCCanvas.Heptagonal iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Heptagonal/main/Screenshot/iPhone.jpg?raw=true)
+![CCCanvas.Heptagonal iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Screenshot/main/CCCanvas.Heptagonal.jpg?raw=true)
 
 10. [CCCanvas](https://github.com/ccworld1000/CCCanvas) iOS Metal MetalKit GPU 极简体验Demo之 - 立方体 [<<代码链接>>](https://github.com/ccworld1000/CCCanvas.Cube)
 
-![CCCanvas.Cube iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Cube/main/Screenshot/iPhone.jpg?raw=true)
+![CCCanvas.Cube iPhone Screenshot](https://raw.github.com/ccworld1000/CCCanvas.Screenshot/main/CCCanvas.Cube.jpg?raw=true)
 
