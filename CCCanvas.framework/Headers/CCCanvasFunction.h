@@ -79,6 +79,8 @@ FOUNDATION_EXPORT NSString * const CCCanvasFunctionNameCube;
 
 + (CCCanvasFunction *)functionWithType: (CCCanvasType) type;
 
++ (NSString *)canvasNameWithType: (CCCanvasType) type;
+
 @end
 
 NS_ASSUME_NONNULL_END
