@@ -35,6 +35,7 @@ NS_ASSUME_NONNULL_BEGIN
 -(instancetype)initPyamid;
 -(instancetype)initHexagon;
 -(instancetype)initHeptagonal;
+-(instancetype)initCube;
 
 - (float *) pointBytes;
 
