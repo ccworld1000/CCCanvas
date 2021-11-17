@@ -32,10 +32,11 @@ NS_ASSUME_NONNULL_BEGIN
 -(instancetype)initTextureWithImage:(nullable UIImage *)image;
 -(instancetype)initTextureForDemo;
 
--(instancetype)initPyamid;
--(instancetype)initHexagon;
--(instancetype)initHeptagonal;
--(instancetype)initCube;
++(instancetype)pyamid;
++(instancetype)hexagon;
++(instancetype)heptagonal;
++(instancetype)cube;
+
 
 - (float *) pointBytes;
 
